@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/svgdialgauge">
+        <file alias="background.svg">Tachometer/background.svg</file>
+        <file alias="needle.svg">Tachometer/needle.svg</file>
+        <file alias="needle_shadow.svg">Tachometer/needle_shadow.svg</file>
+        <file alias="overlay.svg">Tachometer/overlay.svg</file>
+    </qresource>
+</RCC>
